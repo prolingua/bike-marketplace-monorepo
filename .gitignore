@@ -1,0 +1,15 @@
+# Ignore all node_modules
+**/node_modules/
+
+# Ignore all .env files
+**/.env
+
+# Ignore OS junk
+.DS_Store
+
+# Ignore build artifacts (optional)
+dist/
+build/
+
+# Ignore Turbo cache
+.turbo/
